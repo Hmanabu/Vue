@@ -1,4 +1,4 @@
-# 練習用プロジェクト
+# アクション対魔忍攻略サイト
 
 ## Project setup
 ```
@@ -27,7 +27,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ## 概要
-このプロジェクトは某きずながあるvtuber企業のサイトをマルパクリ、一部修正したものなので外部に出すにはまずまずカモ。
+このプロジェクトは某きずなvtuber企業のサイトを参考。
 
 ## 機能
 
